@@ -1,6 +1,6 @@
 <?php
 
-namespace Kiyora\CrudGenerator;
+namespace Kiyora\CrudGenerator\Commands;
 
 use App\Models\ModelGenerator;
 use Illuminate\Console\Command;

@@ -1,6 +1,6 @@
 <?php
 
-namespace Kiyora\CrudGenerator;
+namespace Kiyora\CrudGenerator\Commands;
 
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\File;
