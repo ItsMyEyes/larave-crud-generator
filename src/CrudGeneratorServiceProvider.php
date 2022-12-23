@@ -39,7 +39,6 @@ class CrudGeneratorServiceProvider extends ServiceProvider
         $this->commands(
             'Kiyora\CrudGenerator\Commands\DeleteCrud',
             'Kiyora\CrudGenerator\Commands\MakeCrud',
-            'Kiyora\CrudGenerator\Commands\GeneratorCrud',
         );
     }
 }
