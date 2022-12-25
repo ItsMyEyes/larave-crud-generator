@@ -2,7 +2,7 @@
 
 namespace Kiyora\CrudGenerator\Commands;
 
-use App\Models\ModelGenerator;
+use Kiyora\CrudGenerator\Models\ModelGenerator;
 use Illuminate\Console\Command;
 use Illuminate\Filesystem\Filesystem;
 use Illuminate\Support\Arr;
